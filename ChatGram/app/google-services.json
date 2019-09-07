@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705454792219",
+    "firebase_url": "https://chatgram-82eb3.firebaseio.com",
+    "project_id": "chatgram-82eb3",
+    "storage_bucket": "chatgram-82eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705454792219:android:4b75cb4d83f11b45",
+        "android_client_info": {
+          "package_name": "com.elkamelhassen.chatgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705454792219-hu379f9rlho3gcb80b03iqvolcq12ukg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elkamelhassen.chatgram",
+            "certificate_hash": "67a5500187fcd13a130cf6d237748dd96f2b252e"
+          }
+        },
+        {
+          "client_id": "705454792219-f2p43j7uvvfaqrn018p4ps0gb232dshm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMs4JAQfN0FSVpAGsZO5tmGxqhvLkqOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705454792219-f2p43j7uvvfaqrn018p4ps0gb232dshm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
